@@ -35,7 +35,7 @@ def main():
     fig.subplots_adjust(left=.31, right=.95, bottom=.14, top=.84)
     finish(fig,'reported_oxygen.png')
 
-    stats = json.loads((ROOT/'data/tree_loss_stats.json').read_text())
+    stats = json.loads((ROOT/'data/tree_loss_stats.json').read_text(encoding='utf8'))
     years = list(map(int,stats['annual_loss_ha']))
     values = list(stats['annual_loss_ha'].values())
     fig, ax = plt.subplots(figsize=(12,4.8),facecolor=CREAM); ax.set_facecolor(CREAM)
@@ -48,6 +48,7 @@ def main():
 
     m = folium.Map(location=[17.50,-88.56],zoom_start=10,tiles=None,control_scale=True)
     folium.TileLayer('OpenStreetMap',name='Reference basemap').add_to(m)
+    folium.map.CustomPane('evidence',z_index=650).add_to(m)
     markers = folium.FeatureGroup(name='Reported oxygen and evidence gaps',show=True).add_to(m)
     for feature in places['features']:
         p=feature['properties']; lon,lat=feature['geometry']['coordinates']; value=p['reported_do_mg_l']
@@ -56,10 +57,10 @@ def main():
         popup=f'<b>{html.escape(p["display_name"])}</b><p>{text}</p><p>Settlement reference only. Exact sampling coordinates and times unknown.</p>{source}'
         folium.CircleMarker([lat,lon],radius=p['symbol_diameter_pt']/2,color=INK,weight=1.5,
                             fill=value is not None,fill_color=TEAL,fill_opacity=.8,
-                            tooltip=f'{p["display_name"]}: {text}',popup=folium.Popup(popup,max_width=310)).add_to(markers)
+                            pane='evidence',tooltip=f'{p["display_name"]}: {text}',popup=folium.Popup(popup,max_width=310)).add_to(markers)
     with (ROOT/'data/rainfall_cells.csv').open() as f:
         rain=list(csv.DictReader(f))
-    weeks=json.loads((ROOT/'data/rain_weeks.json').read_text())
+    weeks=json.loads((ROOT/'data/rain_weeks.json').read_text(encoding='utf8'))
     for week in weeks:
         group=folium.FeatureGroup(name=f'Rainfall: {week["label"]} (mm)',show=False).add_to(m)
         for cell in rain:

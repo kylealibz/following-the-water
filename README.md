@@ -75,6 +75,7 @@ If ArcGIS Pro becomes available again, `arcgis/create_geodatabase.py` can import
 
 ```text
 scripts/     public-data collector, evidence join, figures, HTML map, distance analysis
+archive/     original GDAL tree-loss processing script and its input requirements
 data/        source-linked reported values, GeoNames points and saved context summaries
 results/     generated GeoJSON, CSV and evidence validation
 figures/     reproducible data graphics used in this README
