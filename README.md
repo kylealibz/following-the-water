@@ -9,7 +9,9 @@ This project brings reported dissolved-oxygen readings together with community l
 
 **[Read the published StoryMap](https://storymaps.arcgis.com/stories/e6ee90cbb7d04636bd0248661512deea)** · **[Explore the ArcGIS oxygen map](https://www.arcgis.com/apps/mapviewer/index.html?webmap=dba520eb2a4c457baa6beb8ddd0e6632)** · **[Open the portable map](https://kylealibz.github.io/following-the-water/evidence_explorer.html)**
 
-![Eight reported dissolved-oxygen readings, kept separate from unknown sampling locations](figures/reported_oxygen.png)
+[![Interactive map with a reported oxygen popup and rainfall context](figures/evidence_map_preview.jpg)](https://kylealibz.github.io/following-the-water/evidence_explorer.html)
+
+*Live evidence explorer. Basemap © OpenStreetMap contributors; community references © GeoNames (CC BY 4.0); reported oxygen: Love FM; rainfall: CHIRPS v3. Click the preview to open the map.*
 
 ## What the maps do
 
@@ -28,6 +30,8 @@ The published project also includes watershed context, approximate canal-referen
 The five community-associated readings range from **1.28 to 6.19 mg/L**. All eight values come from a reported briefing, not field measurements collected by this project. Original sample times, instrument details and station coordinates were unavailable. Publication dates are retained separately from sampling dates.
 
 The project helps readers examine spatial context and the limits of the evidence. It does not establish a single responsible agricultural operation, reconstruct a chemical plume, or diagnose deaths from satellite colour. The rainfall and tree-cover layers add context; their overlap with the river is not a causal test.
+
+![Eight reported dissolved-oxygen readings, kept separate from unknown sampling locations](figures/reported_oxygen.png)
 
 ![Annual tree-cover loss in the selected corridor from 2001 through 2025](figures/tree_cover_loss.png)
 
