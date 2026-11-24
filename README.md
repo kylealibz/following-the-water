@@ -3,11 +3,19 @@
 
 **Python · GIS · environmental evidence · ArcGIS StoryMaps**
 
+## Explore the full StoryMap
+
+**[Following the Water: Belize River Evidence and Communities](https://storymaps.arcgis.com/stories/e6ee90cbb7d04636bd0248661512deea)**
+
+Follow the Belize River through an interactive village tour, satellite comparisons, community accounts and the evidence behind the fish-kill investigation. The StoryMap brings the maps together with the people and places that inspired this project. This repository shares the code and methods behind that story.
+
+**[Read and explore the story →](https://storymaps.arcgis.com/stories/e6ee90cbb7d04636bd0248661512deea)**
+
 Growing up in Belize City, I often visited my family's property in Bermudian Landing. The Belize River and the villages around it became familiar places long before I began studying marine biology. Reports of fish dying in the river brought me back to the valley with a different question: **what could the available evidence tell us about the event, and where were the gaps?**
 
 This project brings reported dissolved-oxygen readings together with community locations, rainfall estimates and historical tree-cover loss. I developed it during the National Geographic Society and The Nature Conservancy conservation externship through Extern. This repository preserves a selected, documented part of the GIS workflow and adds a portable Python version that runs without ArcGIS Pro.
 
-**[Read the published StoryMap](https://storymaps.arcgis.com/stories/e6ee90cbb7d04636bd0248661512deea)** · **[Explore the ArcGIS oxygen map](https://www.arcgis.com/apps/mapviewer/index.html?webmap=dba520eb2a4c457baa6beb8ddd0e6632)** · **[Open the portable map](https://kylealibz.github.io/following-the-water/evidence_explorer.html)**
+**[Explore the ArcGIS oxygen map](https://www.arcgis.com/apps/mapviewer/index.html?webmap=dba520eb2a4c457baa6beb8ddd0e6632)** · **[Open the portable map](https://kylealibz.github.io/following-the-water/evidence_explorer.html)**
 
 [![Interactive map with a reported oxygen popup and rainfall context](figures/evidence_map_preview.jpg)](https://kylealibz.github.io/following-the-water/evidence_explorer.html)
 
