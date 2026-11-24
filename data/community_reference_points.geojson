@@ -1,0 +1,203 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.59074,
+          17.51156
+        ]
+      },
+      "properties": {
+        "geonames_id": "3581246",
+        "name": "Saint Paul's",
+        "source_url": "https://www.geonames.org/3581246/",
+        "source_modified": "2025-04-14",
+        "location_role": "Settlement reference point only",
+        "limitation": "Not a fish-kill observation, sample station or village boundary",
+        "attribution": "GeoNames, CC BY 4.0",
+        "reported_do_mg_l": 2.39,
+        "do_source_url": "https://lovefm.com/environmental-groups-flag-drainage-canals-as-a-major-factor-in-the-fish-kill/",
+        "event_context": "Place reference; no precise incident or sample location established"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.69204,
+          17.34734
+        ]
+      },
+      "properties": {
+        "geonames_id": "3581633",
+        "name": "More Tomorrow",
+        "source_url": "https://www.geonames.org/3581633/",
+        "source_modified": "2025-04-15",
+        "location_role": "Settlement reference point only",
+        "limitation": "Not a fish-kill observation, sample station or village boundary",
+        "attribution": "GeoNames, CC BY 4.0",
+        "reported_do_mg_l": null,
+        "do_source_url": "",
+        "event_context": "Place reference; no precise incident or sample location established"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.53333,
+          17.58333
+        ]
+      },
+      "properties": {
+        "geonames_id": "3581897",
+        "name": "Isabella Bank",
+        "source_url": "https://www.geonames.org/3581897/",
+        "source_modified": "2025-04-14",
+        "location_role": "Settlement reference point only",
+        "limitation": "Not a fish-kill observation, sample station or village boundary",
+        "attribution": "GeoNames, CC BY 4.0",
+        "reported_do_mg_l": 1.28,
+        "do_source_url": "https://lovefm.com/environmental-groups-flag-drainage-canals-as-a-major-factor-in-the-fish-kill/",
+        "event_context": "Place reference; no precise incident or sample location established"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.40491,
+          17.64982
+        ]
+      },
+      "properties": {
+        "geonames_id": "3582018",
+        "name": "Grace Bank",
+        "source_url": "https://www.geonames.org/3582018/",
+        "source_modified": "2014-02-08",
+        "location_role": "Settlement reference point only",
+        "limitation": "Not a fish-kill observation, sample station or village boundary",
+        "attribution": "GeoNames, CC BY 4.0",
+        "reported_do_mg_l": null,
+        "do_source_url": "",
+        "event_context": "Place reference; no precise incident or sample location established"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.49292,
+          17.61407
+        ]
+      },
+      "properties": {
+        "geonames_id": "3582099",
+        "name": "Flowers Bank",
+        "source_url": "https://www.geonames.org/3582099/",
+        "source_modified": "2025-04-13",
+        "location_role": "Settlement reference point only",
+        "limitation": "Not a fish-kill observation, sample station or village boundary",
+        "attribution": "GeoNames, CC BY 4.0",
+        "reported_do_mg_l": 1.58,
+        "do_source_url": "https://lovefm.com/environmental-groups-flag-drainage-canals-as-a-major-factor-in-the-fish-kill/",
+        "event_context": "Place reference; no precise incident or sample location established"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.5575,
+          17.54358
+        ]
+      },
+      "properties": {
+        "geonames_id": "3582194",
+        "name": "Double Head Cabbage",
+        "source_url": "https://www.geonames.org/3582194/",
+        "source_modified": "2025-04-13",
+        "location_role": "Settlement reference point only",
+        "limitation": "Not a fish-kill observation, sample station or village boundary",
+        "attribution": "GeoNames, CC BY 4.0",
+        "reported_do_mg_l": 2.0,
+        "do_source_url": "https://lovefm.com/environmental-groups-flag-drainage-canals-as-a-major-factor-in-the-fish-kill/",
+        "event_context": "Place reference; no precise incident or sample location established"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.40527,
+          17.56933
+        ]
+      },
+      "properties": {
+        "geonames_id": "3582514",
+        "name": "Burrell Boom",
+        "source_url": "https://www.geonames.org/3582514/",
+        "source_modified": "2025-04-13",
+        "location_role": "Settlement reference point only",
+        "limitation": "Not a fish-kill observation, sample station or village boundary",
+        "attribution": "GeoNames, CC BY 4.0",
+        "reported_do_mg_l": 6.19,
+        "do_source_url": "https://lovefm.com/environmental-groups-flag-drainage-canals-as-a-major-factor-in-the-fish-kill/",
+        "event_context": "Place reference; no precise incident or sample location established"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.53573,
+          17.5573
+        ]
+      },
+      "properties": {
+        "geonames_id": "3582661",
+        "name": "Bermudian Landing",
+        "source_url": "https://www.geonames.org/3582661/",
+        "source_modified": "2025-04-13",
+        "location_role": "Settlement reference point only",
+        "limitation": "Not a fish-kill observation, sample station or village boundary",
+        "attribution": "GeoNames, CC BY 4.0",
+        "reported_do_mg_l": null,
+        "do_source_url": "",
+        "event_context": "Place reference; no precise incident or sample location established"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.502,
+          17.56621
+        ]
+      },
+      "properties": {
+        "geonames_id": "13286681",
+        "name": "Scotland Halfmoon",
+        "source_url": "https://www.geonames.org/13286681/",
+        "source_modified": "2025-04-14",
+        "location_role": "Settlement reference point only",
+        "limitation": "Not a fish-kill observation, sample station or village boundary",
+        "attribution": "GeoNames, CC BY 4.0",
+        "reported_do_mg_l": null,
+        "do_source_url": "",
+        "event_context": "Place reference; no precise incident or sample location established"
+      }
+    }
+  ]
+}

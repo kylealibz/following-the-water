@@ -1,0 +1,18 @@
+# Data sources, credits and reuse
+
+No blanket data licence is applied to this repository. The MIT licence covers the original Python code only. Source data and derived summaries retain applicable source terms. Links below identify the actual providers; inclusion is not an assertion that every provider offers the same reuse rights.
+
+| File or layer | Source and attribution | Meaning and reuse notes |
+|---|---|---|
+| `community_reference_points.geojson` | [GeoNames Belize download](https://download.geonames.org/export/dump/BZ.zip), [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) | Nine selected public settlement references; attribution and individual source links retained. Normalized display names and joined values are project additions. |
+| `reported_oxygen_readings.json` | [Love FM, 17 August 2026](https://lovefm.com/environmental-groups-flag-drainage-canals-as-a-major-factor-in-the-fish-kill/) | Eight numeric facts transcribed from reported briefing material; no article text or news photographs redistributed. Not original field sheets. Unit interpretation caveat retained. |
+| `rainfall_cells.csv`, `rain_weeks.json` | [Climate Hazards Center CHIRPS v3](https://www.chc.ucsb.edu/data/chirps3), [source directory](https://data.chc.ucsb.edu/products/CHIRPS/v3.0/daily/final/rnl/2026/) | Project-derived seven-day totals from final daily rnl rasters, 5 July–8 August 2026. Attribute CHIRPS/Climate Hazards Center and consult provider terms for subsequent use. |
+| `tree_loss_stats.json` | [Hansen Global Forest Change v1.13](https://developers.google.com/earth-engine/datasets/catalog/UMD_hansen_global_forest_change_2025_v1_13), [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) | Project-derived statistics, canopy threshold ≥30% in 2000. Fixed corridor rectangle. Approximate gross-loss area, not net forest change. Source bands: `lossyear` and `treecover2000`, tile `20N_090W`. |
+| Optional river download | [Belize Rivers feature service](https://services9.arcgis.com/mt4kvYhNXSa5AqLG/ArcGIS/rest/services/Belize_Rivers/FeatureServer/0) | Service credits 1:50,000 UK Ordnance Survey maps; Jan Meerman; Sandor Rickets; Peter Esselman; the 2015 Climate Resilience Project. Saved metadata did not establish a redistribution licence. Geometry is downloaded on demand and excluded from the committed dataset. |
+| Optional Sentinel catalogue | [Element 84 Earth Search](https://earth-search.aws.element84.com/v1) | Collector returns Sentinel-2 L2A metadata, not water-quality measurements. Tile-wide cloud percentage does not establish clear visibility at an outlet. |
+| Rainfall selection boundary, not bundled | [Copeland et al. (2025)](https://doi.org/10.3390/w17131915), [research archive](https://zenodo.org/records/15361440) | Research model delineation used in the saved preparation. Not a legal boundary, surveyed farm catchment or incident footprint. |
+| Browser reference tiles | [OpenStreetMap contributors](https://www.openstreetmap.org/copyright) | Attribution is displayed by Leaflet. Tiles are loaded from the provider, not bundled. Follow the provider's usage policy. |
+
+`source_register.json` preserves 15 original research source records, including blocked downloads and research leads. A listed source is not necessarily an input to the portable build. Access-status notes describe the original collection period and are not assertions of current availability.
+
+The README figures are newly generated from the saved data, with source attribution. Third-party photographs, news video frames, personal interviews, other creators' StoryMap examples, credentials and full unpublished story backups are excluded from this repository. The live StoryMap link provides access to the larger narrative under its own credits.

@@ -1,0 +1,50 @@
+[
+  {
+    "file": "Following_the_Water_StoryMap.aprx",
+    "bytes": 227068,
+    "sha256": "d117fa6bced9bf6c7845820a4c9370510e2557ae530c6db34945e2e2e6071a4c",
+    "public_repository": "Not bundled; local provenance record only"
+  },
+  {
+    "file": "Following_the_Water_StoryMap.ppkx",
+    "bytes": 8954102,
+    "sha256": "1fa1a0d477c122da482c4b4e35def58383a0ee06978b0cae0a53174c834443c1",
+    "public_repository": "Not bundled; local provenance record only"
+  },
+  {
+    "file": "Following_the_Water_Atlas.pdf",
+    "bytes": 4839846,
+    "sha256": "2d3ff11e39c1a68abeac6ae53b1a888fa84063f65a369ec8ececd4f23fea94c9",
+    "public_repository": "Not bundled; local provenance record only"
+  },
+  {
+    "file": "finish_water_project.py",
+    "bytes": 26448,
+    "sha256": "cfd97c6703b3c99d474ead5cda6b1057431cc11909b7f7c9511efbdfde7060b7",
+    "public_repository": "Not bundled; local provenance record only"
+  },
+  {
+    "file": "create_water_story.py",
+    "bytes": 20130,
+    "sha256": "64922dc6af8b231324f51a4c7f752b99656abddbbe8bff57258710dad814961e",
+    "public_repository": "Not bundled; local provenance record only"
+  },
+  {
+    "file": "prepare_enrichment_data.py",
+    "bytes": 7261,
+    "sha256": "81e8dbb12f403cfd9638f4628cea47e4c0726d700e56f43183d52ce3dc6554aa",
+    "public_repository": "Not bundled; local provenance record only"
+  },
+  {
+    "file": "prepare_tree_loss_patches.py",
+    "bytes": 3412,
+    "sha256": "344e96d6b58a9fc93acb271ec10020e6d94c9eb9c316e5e276f55b2325641a64",
+    "public_repository": "Not bundled; local provenance record only"
+  },
+  {
+    "file": "apply_quantitative_symbols_20261112.py",
+    "bytes": 3796,
+    "sha256": "6ec9540c9f9182108518f262471e6ebb94869949716f575c16915182da867fe5",
+    "public_repository": "Not bundled; local provenance record only"
+  }
+]

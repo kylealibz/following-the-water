@@ -1,0 +1,8 @@
+{
+  "communities": 9,
+  "reported_readings": 8,
+  "community_associated_values": 5,
+  "unlocated_readings": 3,
+  "missing_community_values": 4,
+  "note": "No interpolated plume. Publication dates are not sampling dates."
+}

@@ -1,0 +1,152 @@
+[
+  {
+    "source_id": "S01",
+    "publication_date": "2026-08-07",
+    "title": "DOE statement reproduced by Breaking Belize News",
+    "url": "https://www.breakingbelizenews.com/2026/08/07/department-of-the-environment-provides-update-on-fish-kill-in-the-belize-river-valley-area/",
+    "type": "Government statement reproduced by media",
+    "use_and_limit": "Describes assessment extent and an affected reach; no station coordinates or numerical table.",
+    "access_status": "Retrieved",
+    "accessed": "2026-10-08"
+  },
+  {
+    "source_id": "S02",
+    "publication_date": "2026-08-11",
+    "title": "DOE interview, 7 News",
+    "url": "https://www.7newsbelize.com/sstory.php?nid=79464",
+    "type": "Interview transcript",
+    "use_and_limit": "Describes a 300-plus-acre rice field north of Santander; no exact field boundary.",
+    "access_status": "Retrieved",
+    "accessed": "2026-10-08"
+  },
+  {
+    "source_id": "S03",
+    "publication_date": "2026-08-16",
+    "title": "Amandala investigation report and imagery comparison",
+    "url": "https://amandala.com.bz/news/early-evidence-in-massive-belize-river-fish-kill-points-to-farm-runoff-after-flooding/",
+    "type": "Reported interview and published image",
+    "use_and_limit": "Provides three image dates and a 380-acre estimate. Low-resolution comparison is not georeferenced source imagery.",
+    "access_status": "Retrieved; image visually inspected",
+    "accessed": "2026-10-08"
+  },
+  {
+    "source_id": "S04",
+    "publication_date": "2026-08-07",
+    "title": "Santander response, 7 News",
+    "url": "https://www.7newsbelize.com/7newsbelize/sstory.php?nid=79423",
+    "type": "Company statement reported by media",
+    "use_and_limit": "Company denies a Labouring Creek canal connection. Treat as attributed position.",
+    "access_status": "Retrieved",
+    "accessed": "2026-10-08"
+  },
+  {
+    "source_id": "S05",
+    "publication_date": "2026-09-01",
+    "title": "Santander canal explanation, BBN",
+    "url": "https://www.breakingbelizenews.com/2026/09/01/santander-explains-canal-system-as-belize-river-fish-kill-questions-continue/",
+    "type": "Company explanation reported by media",
+    "use_and_limit": "Describes canal operation and one monitored outlet; engineering drawings not supplied.",
+    "access_status": "Retrieved",
+    "accessed": "2026-10-08"
+  },
+  {
+    "source_id": "S06",
+    "publication_date": "2026-08-17",
+    "title": "DOE briefing and drainage investigation, Love FM",
+    "url": "https://lovefm.com/environmental-groups-flag-drainage-canals-as-a-major-factor-in-the-fish-kill/",
+    "type": "Briefing transcript and reporting",
+    "use_and_limit": "Provides reported dissolved-oxygen values; sample timestamps and exact coordinates absent.",
+    "access_status": "Retrieved",
+    "accessed": "2026-10-08"
+  },
+  {
+    "source_id": "S07",
+    "publication_date": "2026-08-04",
+    "title": "Initial community reporting, Love FM",
+    "url": "https://lovefm.com/mystery-fish-kill-prompts-environmental-investigation-in-belize-river-valley/",
+    "type": "Reporting and resident interview",
+    "use_and_limit": "Mentions Isabella Bank and Scotland Half Moon. Not independent fieldwork by this project.",
+    "access_status": "Retrieved",
+    "accessed": "2026-10-08"
+  },
+  {
+    "source_id": "S08",
+    "publication_date": "2026-09-25",
+    "title": "DOE status update, Greater Belize Media",
+    "url": "https://www.greaterbelize.com/doe-belize-river-water-quality-returns-to-normal/",
+    "type": "Agency findings reported by media",
+    "use_and_limit": "Reports stabilization and a monitoring station; raw laboratory records and station location not supplied.",
+    "access_status": "Retrieved",
+    "accessed": "2026-10-08"
+  },
+  {
+    "source_id": "S09",
+    "publication_date": "2026-07-14",
+    "title": "Rainfall and flood report, Amandala",
+    "url": "https://amandala.com.bz/news/bank-full-one-months-rain-in-12-hours/",
+    "type": "Meteorologist briefing reported by media",
+    "use_and_limit": "Reported Belmopan rainfall is context; not measured rainfall over the farm.",
+    "access_status": "Retrieved",
+    "accessed": "2026-10-08"
+  },
+  {
+    "source_id": "S10",
+    "publication_date": "2013-09-05",
+    "title": "Santander / Green Tropics EIA listing",
+    "url": "https://doe.gov.bz/download/santander-group-formerly-green-tropics-eia/",
+    "type": "Government-hosted historical assessment",
+    "use_and_limit": "Listing retrieved; downloaded PDF required a password and could not be inspected. No geometry derived.",
+    "access_status": "Content blocked by PDF password",
+    "accessed": "2026-10-08"
+  },
+  {
+    "source_id": "G01",
+    "publication_date": "",
+    "title": "Belize Rivers feature service",
+    "url": "https://services9.arcgis.com/mt4kvYhNXSa5AqLG/ArcGIS/rest/services/Belize_Rivers/FeatureServer/0",
+    "type": "GIS reference data",
+    "use_and_limit": "Digitized from 1:50,000 maps; service credits Meerman, Rickets, Esselman and 2015 project. Not a surveyed 2026 drainage network.",
+    "access_status": "675 intersecting segments downloaded",
+    "accessed": "2026-10-08"
+  },
+  {
+    "source_id": "G02",
+    "publication_date": "",
+    "title": "GeoNames Belize gazetteer",
+    "url": "https://download.geonames.org/export/dump/BZ.zip",
+    "type": "Place reference data",
+    "use_and_limit": "Selected settlement points only. GeoNames CC BY 4.0; individual record links included.",
+    "access_status": "9 places extracted",
+    "accessed": "2026-10-08"
+  },
+  {
+    "source_id": "G03",
+    "publication_date": "",
+    "title": "Element 84 Earth Search Sentinel-2 L2A catalogue",
+    "url": "https://earth-search.aws.element84.com/v1/search",
+    "type": "Satellite metadata",
+    "use_and_limit": "111 scene records in search extent/date interval. No image pixels analyzed. Cloud percentage is tile-wide.",
+    "access_status": "Catalogue downloaded",
+    "accessed": "2026-10-08"
+  },
+  {
+    "source_id": "G04",
+    "publication_date": "",
+    "title": "Belize NMS observation network",
+    "url": "https://data.nms.gov.bz/?livesite=true",
+    "type": "Official station portal",
+    "use_and_limit": "Lead for rainfall/river-level records; historical event series not downloaded.",
+    "access_status": "Portal located",
+    "accessed": "2026-10-08"
+  },
+  {
+    "source_id": "G05",
+    "publication_date": "",
+    "title": "Belize NSDI portal",
+    "url": "https://portal.bnsdi.gov.bz/",
+    "type": "Government geospatial portal",
+    "use_and_limit": "Additional local data source; no farm parcel confirmed.",
+    "access_status": "Portal located",
+    "accessed": "2026-10-08"
+  }
+]
