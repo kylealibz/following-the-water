@@ -1,0 +1,6 @@
+docs/evidence_explorer.html linguist-generated=true
+results/* linguist-generated=true
+*.geojson linguist-detectable=false
+*.csv text eol=lf
+*.py text eol=lf
+*.md text eol=lf
